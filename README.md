@@ -1,7 +1,7 @@
 # 306-HealthTrack-MAN
 Projet de gestion de projet
 
-# HealthTrack
+# HealthTrack App
 Création d'une App sur la santé et le sport
 Suivi des données sportives, avec des objectifs pour le sport, l'hydratation et le sommeil
 Calculs automatiques :
