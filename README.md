@@ -12,4 +12,10 @@ Calculs automatiques :
 
 Indicateur atteint/non atteint pour chaque objectif (mise à jour automatique)
 
-Objectif paramétrable
+les objectifs sont paramètrable pour chacun de nos goûts 
+
+Dashboard
+- séance sport
+- sommeil moyen
+- hydratation moyenne
+- humeur moyenne
