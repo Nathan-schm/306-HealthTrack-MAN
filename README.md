@@ -4,13 +4,13 @@ Projet de gestion de projet
 # HealthTrack App
 Création d'une App sur la santé et le sport
 
-Suivi des données sportives, avec des objectifs pour le sport, l'hydratation et le sommeil
+Suivi des données pyhsique, avec des objectifs pour le sport, l'hydratation, la nutrition et le sommeil
 
-Calculs automatiques :
+Calculs automatiques
 - Moyenne de sommeil par semaine
 - Moyenne d'hydratation par semaine
 
-Indicateur atteint/non atteint pour chaque objectif (mise à jour automatique)
+Indicateur atteint/non atteint pour chaque objectif (mise à jour automatique et en couleur)
 
 les objectifs sont paramètrable pour chacun de nos goûts 
 
@@ -19,10 +19,8 @@ Dashboard
 - sommeil moyen
 - hydratation moyenne
 - humeur moyenne
-- résumer des calories de la semaine
 
 Graphique 
-- calorie
 - sport
 - hydratation
 - sommeil
