@@ -14,8 +14,15 @@ Indicateur atteint/non atteint pour chaque objectif (mise à jour automatique)
 
 les objectifs sont paramètrable pour chacun de nos goûts 
 
-Dashboard
+Dashboard 
 - séance sport
 - sommeil moyen
 - hydratation moyenne
 - humeur moyenne
+- résumer des calories de la semaine
+
+Graphique 
+- calorie
+- sport
+- hydratation
+- sommeil
