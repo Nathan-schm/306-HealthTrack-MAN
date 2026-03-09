@@ -1,12 +1,18 @@
 # 306-HealthTrack-MAN
-Projet de gestion de projet
+Projet de gestion de projet réalisé par
+
+Massimo Carota
+
+Agashae Premakumar
+
+Nathan Schmid
 
 # HealthTrack App 🏃‍♂️
 Création d'une App sur la santé et le sport
 
 Suivi des données pyhsique, avec des objectifs pour le sport, l'hydratation, la nutrition et le sommeil
 
-# Calculs automatiques 🖩
+# Calculs automatiques 🔢
 - Moyenne de sommeil par semaine
 - Moyenne d'hydratation par semaine
 
