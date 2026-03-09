@@ -20,7 +20,7 @@ les objectifs sont paramètrable pour chacun de nos goûts
 
 # Dashboard 📄
 - séance sport 🏈🏀
-- sommeil moyen 😴
+- sommeil moyen 🛌
 - hydratation moyenne 💧
 - humeur moyenne 😀
 
