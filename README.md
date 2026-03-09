@@ -1,7 +1,7 @@
 # 306-HealthTrack-MAN
 Projet de gestion de projet réalisé par 
 
-- Massimo Carot
+- Massimo Carota
 - Agashae Premakumar
 - Nathan Schmid
 
