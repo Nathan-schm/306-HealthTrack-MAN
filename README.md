@@ -1,4 +1,4 @@
-# 306-HealthTrack-MAN
+# 306-HealthTrack-MAN 🧬
 Projet de gestion de projet réalisé par 
 
 - Massimo Carota
