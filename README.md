@@ -1,11 +1,9 @@
 # 306-HealthTrack-MAN
-Projet de gestion de projet réalisé par
+Projet de gestion de projet réalisé par 
 
-Massimo Carota
-
-Agashae Premakumar
-
-Nathan Schmid
+- Massimo Carot
+- Agashae Premakumar
+- Nathan Schmid
 
 # HealthTrack App 🏃‍♂️
 Création d'une App sur la santé et le sport
